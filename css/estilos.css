@@ -1,0 +1,37 @@
+article, div {
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 5px;
+  color: #353535;
+  display: inline-block;
+  padding: 15px;
+  margin: 5px;
+  width: 20%; }
+
+div {
+  background: #c7c7c7;
+  color: white; }
+
+body {
+  background: #f2f2f2;
+  font: 100% Helvetica, sans-serif;
+  font-size: 16px; }
+
+h1 {
+  text-align: center; }
+
+nav ul {
+  list-style: none; }
+  nav ul li {
+    display: inline-block;
+    margin: 0 10px; }
+    nav ul li a {
+      text-decoration: none; }
+
+.container {
+  background: #ffff06;
+  display: block;
+  margin: 0 auto;
+  width: 85%; }
+
+/*# sourceMappingURL=estilos.css.map */
